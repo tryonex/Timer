@@ -1,5 +1,5 @@
 /*
- * Copyright © 2016 by <name>
+ * Copyright Â© 2016 by Tryonex
  * This file is part of Timer
  * Timer is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
