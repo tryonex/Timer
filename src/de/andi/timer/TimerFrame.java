@@ -1,5 +1,5 @@
 /*
- * Copyright © 2015 by <name>
+ * Copyright Â© 2015 by Tryonex
  * This file is part of Timer
  * Timer is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -185,7 +185,6 @@ public class TimerFrame extends JFrame implements Runnable{
 			if(stop){
 				return;
 			}else if(!pause){
-				System.out.println("time runs - "+pause );
 				time.setText(main.t.calcRemainingTime());
 				boolean blink = false;
 				if(main.t.hours == 0 && main.t.min < 20)
