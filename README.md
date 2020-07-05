@@ -12,5 +12,6 @@ cd src
 javac -cp . ./de/andi/timer/Main.java
 java de.andi.timer.Main
 ```
-
+Copyright by Tryonex
+Licensed under [GPLv3](./LICENSE)
 
